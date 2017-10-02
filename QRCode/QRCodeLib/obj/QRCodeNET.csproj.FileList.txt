@@ -1,0 +1,5 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\QRCodeNET.dll
+obj\Debug\QRCodeNET.pdb
+.\QRCodeNET.dll
+.\QRCodeNET.pdb

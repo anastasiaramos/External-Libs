@@ -1,0 +1,14 @@
+D:\Proyectos\VS Projects\Common\Infralution.Localization\TestCultureManager\bin\Debug\TestCultureManager.exe
+D:\Proyectos\VS Projects\Common\Infralution.Localization\TestCultureManager\bin\Debug\TestCultureManager.pdb
+D:\Proyectos\VS Projects\Common\Infralution.Localization\TestCultureManager\bin\Debug\fr\TestCultureManager.resources.dll
+D:\Proyectos\VS Projects\Common\Infralution.Localization\TestCultureManager\bin\Debug\Infralution.Localization.dll
+D:\Proyectos\VS Projects\Common\Infralution.Localization\TestCultureManager\bin\Debug\Infralution.Localization.pdb
+D:\Proyectos\VS Projects\Common\Infralution.Localization\TestCultureManager\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\VS Projects\Common\Infralution.Localization\TestCultureManager\obj\Debug\TestCultureManager.MainForm.resources
+D:\Proyectos\VS Projects\Common\Infralution.Localization\TestCultureManager\obj\Debug\TestCultureManager.Properties.Resources.resources
+D:\Proyectos\VS Projects\Common\Infralution.Localization\TestCultureManager\obj\Debug\TestCultureManager.MainForm.fr.resources
+D:\Proyectos\VS Projects\Common\Infralution.Localization\TestCultureManager\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Proyectos\VS Projects\Common\Infralution.Localization\TestCultureManager\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Proyectos\VS Projects\Common\Infralution.Localization\TestCultureManager\obj\Debug\fr\TestCultureManager.resources.dll
+D:\Proyectos\VS Projects\Common\Infralution.Localization\TestCultureManager\obj\Debug\TestCultureManager.exe
+D:\Proyectos\VS Projects\Common\Infralution.Localization\TestCultureManager\obj\Debug\TestCultureManager.pdb

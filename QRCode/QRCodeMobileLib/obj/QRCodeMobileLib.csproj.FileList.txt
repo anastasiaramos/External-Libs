@@ -1,0 +1,14 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ThoughtWorks.QRCode.Properties.Resources.resources
+obj\Debug\QRCodeMobileLib.csproj.GenerateResource.Cache
+bin\Debug\ThoughtWorks.QRCode.dll
+bin\Debug\ThoughtWorks.QRCode.pdb
+obj\Debug\ThoughtWorks.QRCode.dll
+obj\Debug\ThoughtWorks.QRCode.pdb
+bin\Release\ThoughtWorks.QRCode.dll
+bin\Release\ThoughtWorks.QRCode.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\ThoughtWorks.QRCode.Properties.Resources.resources
+obj\Release\QRCodeMobileLib.csproj.GenerateResource.Cache
+obj\Release\ThoughtWorks.QRCode.dll
+obj\Release\ThoughtWorks.QRCode.pdb

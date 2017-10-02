@@ -1,0 +1,10 @@
+D:\Proyectos\VS Projects\Common\QRCode\QRCodeLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\VS Projects\Common\QRCode\QRCodeLib\obj\Debug\ThoughtWorks.QRCode.Properties.Resources.resources
+D:\Proyectos\VS Projects\Common\QRCode\QRCodeLib\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Proyectos\VS Projects\Common\QRCode\QRCodeLib\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Proyectos\VS Projects\Common\QRCode\QRCodeLib\obj\Debug\ThoughtWorks.QRCode.dll
+D:\Proyectos\VS Projects\Common\QRCode\QRCodeLib\obj\Debug\ThoughtWorks.QRCode.pdb
+D:\Proyectos\VS Projects\Common\QRCode\QRCodeLib\ThoughtWorks.QRCode.dll
+D:\Proyectos\VS Projects\Common\QRCode\QRCodeLib\ThoughtWorks.QRCode.pdb
+D:\Proyectos\VS Projects\Common\QRCode\QRCodeLib\bin\ThoughtWorks.QRCode.dll
+D:\Proyectos\VS Projects\Common\QRCode\QRCodeLib\bin\ThoughtWorks.QRCode.pdb

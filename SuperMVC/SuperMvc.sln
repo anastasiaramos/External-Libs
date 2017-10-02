@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMvc", "SuperMvc\SuperMvc.csproj", "{8E07BFFA-4E24-4B10-AD70-EE4DCCAF71E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMvcDemo", "SuperMvcDemo\SuperMvcDemo.csproj", "{163FCD3E-5727-4C70-A1CB-F2FCC2ACAD19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMvcDemo.Tests", "SuperMvcDemo.Tests\SuperMvcDemo.Tests.csproj", "{5077B0B4-313B-442C-B8A1-A43101C5C869}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E07BFFA-4E24-4B10-AD70-EE4DCCAF71E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E07BFFA-4E24-4B10-AD70-EE4DCCAF71E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E07BFFA-4E24-4B10-AD70-EE4DCCAF71E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E07BFFA-4E24-4B10-AD70-EE4DCCAF71E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{163FCD3E-5727-4C70-A1CB-F2FCC2ACAD19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{163FCD3E-5727-4C70-A1CB-F2FCC2ACAD19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{163FCD3E-5727-4C70-A1CB-F2FCC2ACAD19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{163FCD3E-5727-4C70-A1CB-F2FCC2ACAD19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5077B0B4-313B-442C-B8A1-A43101C5C869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5077B0B4-313B-442C-B8A1-A43101C5C869}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5077B0B4-313B-442C-B8A1-A43101C5C869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5077B0B4-313B-442C-B8A1-A43101C5C869}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
